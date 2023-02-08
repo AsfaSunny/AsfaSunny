@@ -13,10 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ❔❔❔❔ means username in below README.md -->
 [![AsfaSunny's github stats](https://github-readme-stats.vercel.app/api?username=AsfaSunny&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AsfaSunny)
+<a href="https://github.com/AsfaSunny"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AsfaSunny&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/AsfaSunny"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfaSunny&hide=html,javascript,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 
 ## Cabinet 🏆
 [![Cabinet](https://github-profile-trophy.vercel.app/?username=AsfaSunny&theme=radical&no-frame=true)](https://github.com/AsfaSunny)
+
+![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
 
 ### Let's Connect:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
