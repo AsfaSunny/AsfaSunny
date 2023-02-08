@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsfaSunny, 
+### Hi, I'm @AsfaSunny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - Programm failure made me desperate these days....
 - 👀 I’m interested in JavaScript and Its Framework...
 - 🌱 Into Laravel in recent time and stuck at there...
@@ -9,10 +9,6 @@
 AsfaSunny/AsfaSunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 
 <!-- ❔❔❔❔ means username in below README.md -->
