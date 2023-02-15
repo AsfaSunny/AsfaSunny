@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ❔❔❔❔ means username in below README.md -->
 [![AsfaSunny's github stats](https://github-readme-stats.vercel.app/api?username=AsfaSunny&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AsfaSunny)
 
-<!-- <a href="https://github.com/AsfaSunny"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AsfaSunny&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a> -->
+<a href="https://github.com/AsfaSunny"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AsfaSunny&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 
 ## Cabinet 🏆
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
 
 ### Let's Connect:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] (https://linktr.ee/arifulasfakesunny)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AsfakeSunny)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arifulasfake-sunny23/)
 <br />
