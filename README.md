@@ -31,11 +31,12 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arifulasfake-sunny23/)
 <br /><br/>
 
-## Find My Work
+## Witness My Workflow
 [<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Ariful-Sunny-2)
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/17948006/ariful-asfake-sunny)
 [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/slomosunny)
-[<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />]
+[<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](http://dribbble.com/Asfake_Sunny)
+[<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://www.pinterest.com/arifulasfakesunny/)
 
 
 ## Languages
