@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://linktr.ee/arifulasfakesunny)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AsfakeSunny)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arifulasfake-sunny23/)
-<br />
+<br /><br/>
 [<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Ariful-Sunny-2)
 
 ## Languages
