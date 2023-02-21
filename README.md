@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## GitHub stats
-[![AsfaSunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsfaSunny&show_icons=true&theme=radical)](https://github.com/AsfaSunny) <!-- space between two states --> [![AsfaSunny GitHub Streak](https://streak-stats.demolab.com/?user=AsfaSunny&theme=radical)](https://github.com/AsfaSunny)
+[![AsfaSunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsfaSunny&show_icons=true&theme=radical)](https://github.com/AsfaSunny) <!-- space between two states --> [![GitHub Streak](https://streak-stats.demolab.com/?user=AsfaSunny&theme=radical)](https://github.com/AsfaSunny)
 
 
 ## Top Language
