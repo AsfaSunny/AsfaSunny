@@ -9,6 +9,7 @@
 AsfaSunny/AsfaSunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Visitors and Strangers at Profile : ![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
 
 ## GitHub stats
 [![AsfaSunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsfaSunny&show_icons=true&theme=radical)](https://github.com/AsfaSunny) <!-- space between two states --> [![GitHub Streak](https://streak-stats.demolab.com/?user=AsfaSunny&theme=radical)](https://github.com/AsfaSunny)
@@ -22,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 ## Cabinet 🏆
 [![Cabinet](https://github-profile-trophy.vercel.app/?username=AsfaSunny&theme=radical&no-frame=true)](https://github.com/AsfaSunny)
 
-# Visitors and Strangers at Profile : ![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
 
 ## Let's Connect:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://linktr.ee/arifulasfakesunny)
