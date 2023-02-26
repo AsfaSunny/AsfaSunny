@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## Cabinet 🏆
 [![Cabinet](https://github-profile-trophy.vercel.app/?username=AsfaSunny&theme=radical&no-frame=true)](https://github.com/AsfaSunny)
 
-# Visitors and Strangers at Profile :
-![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
+# Visitors and Strangers at Profile : ![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
 
 ## Let's Connect:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://linktr.ee/arifulasfakesunny)
