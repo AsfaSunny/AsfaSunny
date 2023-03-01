@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Visitors and Strangers at Profile : ![Visitor Count](https://profile-counter.glitch.me/AsfaSunny/count.svg)
 
 ## GitHub stats
-| <a href="https://github.com/AsfaSunny"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AsfaSunny&show_icons=true&theme=radical" alt="AsfaSunny's github stats" /></a> | <a href="https://github.com/AsfaSunny"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfaSunny&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/AsfaSunny"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AsfaSunny&theme=radical" alt="AsfaSunny's github stats" /></a> | <a href="https://github.com/AsfaSunny"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfaSunny&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AsfaSunny&theme=radical)](https://github.com/AsfaSunny)
