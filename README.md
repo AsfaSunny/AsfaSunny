@@ -77,9 +77,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Comptetive Programming
-<p>
-  [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/AsfaSunny/)
-</p>
+  [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/AsfaSunny/)
+
 
 ## Design
 <p>
